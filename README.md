@@ -1,4 +1,4 @@
-### <h1>Bem Vindo, eu sou Paulo!!</h1>
+### <h1>Bem Vindo, eu sou o Paulo!!</h1>
 
 <p> Meu nome é Paulo Henrique, sou formado em Bacharel no curso de ciência da computação. Desde o ensino superior tive contato com banco de dados e programação, áreas que me chamaram bastante atenção, gerando um certo interesse por Análise de dados, desde então sou um grande entusiasta na área, com conhecimento em tecnologias como: Python, SQL, Excel e Power BI. Responsável por coletar, processar e interpretar dados para obter insights valiosos. 💻📊 
 </p>
@@ -7,6 +7,7 @@
 * 🎓Formado em ciência da computação
 * 🎸Músico
 * 🏋Gosto de práticar esportes
+* 🧠Em constante Aprendizado
 
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/paulo-henrique-189360197/">
