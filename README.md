@@ -13,13 +13,9 @@
 &nbsp;<a href="https://www.linkedin.com/in/paulo-henrique-189360197/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/paulogt_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
 
 
-<hr>
-
+### Ferramentas 🛠️:
 <div style="display: inline_block"><br>
 <img align="center" alt="Paulo-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="Paulo-Postgre" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
